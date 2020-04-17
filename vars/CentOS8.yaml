@@ -3,5 +3,3 @@ libvirt_packages:
   - libguestfs-tools
   - virt-top
   - virt-manager
-
-
