@@ -6,4 +6,3 @@ libvirt_packages:
   - virt-install
   - virt-top
   - virt-manager
-
